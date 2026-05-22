@@ -3,7 +3,9 @@
 **NETWORK FLOW** is a professional desktop application designed for HVAC engineers to calculate duct sizing and design schematic networks with high precision. Built with a focus on efficiency, it features a modern, dark-themed UI inspired by industry-standard software.
 
 ## 🚀 Overview
-![Network Flow UI](pics/screen_1.png)![Network Flow UI](pics/screen_2.png)![Network Flow UI](pics/screen_3.png)![Network Flow UI](pics/screen_4.png)
+![Network Flow UI](pics/screen_1.png)![Network Flow UI](pics/screen_2.png)
+#Update v1.0.0
+![Network Flow UI](pics/screen_3.png)![Network Flow UI](pics/screen_4.png)
 ## 🚀 Key Features
 
 * **Duct Sizing (Single Sizer):** Accurate calculations based on the Equal Friction Method (McQuay standards).
